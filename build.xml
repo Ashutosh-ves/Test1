@@ -1,4 +1,4 @@
-<project name="HelloWorldProject" default="run" basedir=".">
+<project name="HelloWorldProject" default="run" basedir="C:\ProgramData\Jenkins\.jenkins\workspace\Demo 3">
     
     <!-- Define where to place compiled files -->
     <property name="src.dir" value="src"/>
